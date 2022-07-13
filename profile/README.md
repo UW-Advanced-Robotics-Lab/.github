@@ -1,6 +1,6 @@
 # WATERLOO MECHANICAL SYSTEMS & CONTROL LAB
 ## (UWARL - University of Waterloo Advanced Robotics Lab)
-![UW logo vert](https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/blob/main/Media/Waterloo_Engineering_Logo_vert_rgb.png)
+<img src="https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/blob/main/Media/Waterloo_Engineering_Logo_vert_rgb.png" alt="waterloo_steel" height="300"/>
 
 ## About:
 Outline and overview of works contributed by all members and alumnis from the **University of Waterloo Advanced Robotics Lab** （aka [_Waterloo Mechanical Systems & Control Lab_](https://uwaterloo.ca/waterloo-mechanical-systems-control-lab/).
