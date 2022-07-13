@@ -1,5 +1,4 @@
-# WATERLOO MECHANICAL SYSTEMS & CONTROL LAB
-## (UWARL - University of Waterloo Advanced Robotics Lab)
+# WATERLOO MECHANICAL SYSTEMS & CONTROL LAB 
 <img src="https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/blob/main/Media/Waterloo_Engineering_Logo_vert_rgb.png" alt="waterloo_steel"/>
 
 ## About:
