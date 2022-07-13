@@ -1,14 +1,15 @@
 # WATERLOO MECHANICAL SYSTEMS & CONTROL LAB
 ## (UWARL - University of Waterloo Advanced Robotics Lab)
+![UW logo vert](https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/blob/main/Media/Waterloo_Engineering_Logo_vert_rgb.png)
 
 ## About:
 Outline and overview of works contributed by all members and alumnis from the **University of Waterloo Advanced Robotics Lab** （aka [_Waterloo Mechanical Systems & Control Lab_](https://uwaterloo.ca/waterloo-mechanical-systems-control-lab/).
 
-- Supervisor: [Professor Soo Jeon](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/soojeon)
-- People: https://uwaterloo.ca/waterloo-mechanical-systems-control-lab/our-people
-- Publication: https://uwaterloo.ca/waterloo-mechanical-systems-control-lab/publications
+- **Supervisor**: [Professor Soo Jeon](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/soojeon)
+- **People**: https://uwaterloo.ca/waterloo-mechanical-systems-control-lab/our-people
+- **Publication**: https://uwaterloo.ca/waterloo-mechanical-systems-control-lab/publications
 
-## Outline of Wiki Pages:
+## Lab Wiki Links:
 - [Lab Wiki Page](https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/wiki)
 - [[doc] Jetson Setup](https://github.com/UW-Advanced-Robotics-Lab/lab-public-documentation/wiki/%5Bdoc%5D-Jetson-Setup)
 - [(doc) Platform](https://github.com/UW-Advanced-Robotics-Lab/lab-public-documentation/wiki/%5Bdoc%5D-Platform)
