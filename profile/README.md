@@ -10,7 +10,7 @@ Outline and overview of works contributed by all members and alumnis from the **
 <a href="https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/wiki" target="_blank"><img src="https://github.com/UW-Advanced-Robotics-Lab/lab-public-documentation/blob/main/Media/button.png" alt="Click Here to Access Lab Wiki Page and Guide"/></a>
 
 ## Hardware System Architecture
-![system-arch](https://github.com/UW-Advanced-Robotics-Lab/lab-public-documentation/wiki/resources/Waterloo_steel_arch_v2_final.jpg)
+<a href="https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/wiki" target="_blank"><img src="https://github.com/UW-Advanced-Robotics-Lab/lab-public-documentation/wiki/resources/Waterloo_steel_arch_v2_final.jpg" alt="Hardware Architecture V2 Final"/></a>
 
 ## Demo Videos:
 - [April 2022 | Multi-floor Operation Using The Elevator](https://www.youtube.com/watch?v=rkKu2eE83Ss)
