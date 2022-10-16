@@ -7,8 +7,7 @@ Outline and overview of works contributed by all members and alumnis from the **
 - **People**: https://uwaterloo.ca/waterloo-mechanical-systems-control-lab/our-people
 - **Publication**: https://uwaterloo.ca/waterloo-mechanical-systems-control-lab/publications
 
-|[> *Click Here to Access* **Lab Wiki Page and Guide** <](https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/wiki)|
-|:---:|
+<a href="https://github.com/UW-Advanced-Robotics-Lab/lab-documentation/wiki" target="_blank"><img src="https://github.com/UW-Advanced-Robotics-Lab/lab-public-documentation/blob/main/Media/button.png" alt="Click Here to Access Lab Wiki Page and Guide"/></a>
 
 ## Hardware System Architecture
 ![system-arch](https://github.com/UW-Advanced-Robotics-Lab/lab-public-documentation/wiki/resources/Waterloo_steel_arch_v2_final.jpg)
